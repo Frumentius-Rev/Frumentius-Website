@@ -1,0 +1,43 @@
+body {
+  font-family: arial;
+  line-height: 1.6;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.head-pic {
+  width: 40px;
+  border-radius: 4px;
+}
+
+h1 {
+  color: saddlebrown;
+  font-size: 40px;
+  margin: 0;
+  }
+
+h2 {
+  color: saddlebrown;
+}
+
+.centered-image {
+  text-align: center;
+}
+
+.middle-pic {
+  width: 80%;
+  max-width: 350px;
+  border-radius: 6px;
+}
+
+.image1, .image2 {
+  border-radius: 4px;
+}
+
+.image1 {
+  margin-right: 6px;
+}
