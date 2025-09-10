@@ -1,5 +1,5 @@
 # Frumentius-Website
-My personal webpage project, deployed using GitHub Pages.
+This is my personal webpage, deployed using GitHub Pages as part of my CYF course project.
 
 ## How to view 
 You can view this webpage live on Github Page:
